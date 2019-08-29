@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity implements MainActivityContr
 
     private RecyclerView recyclerView;
     private ProgressBar progressBar;
+ //   private ProgressBar dd;
     MainActivityComponent mainActivityComponent;
 
     @Inject
